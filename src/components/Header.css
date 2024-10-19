@@ -1,0 +1,32 @@
+.navbar-card {
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 15px;
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+  }
+  
+  .navbar-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar-links li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  .navbar-links a {
+    text-decoration: none;
+    color: #6c63ff;
+    font-weight: bold;
+  }
+  
+  .navbar-links a:hover {
+    color: #3b3b98;
+  }
+  
